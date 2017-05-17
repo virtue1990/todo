@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: server-todo
+Version: 1.0.0
+Summary: test for use
+Home-page: UNKNOWN
+Author: virtue
+Author-email: virtue2013@sina.cn
+License: Proprietary
+Description: flask structure and use 
+Keywords: slack,egg
+Platform: any
