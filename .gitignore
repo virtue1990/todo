@@ -23,7 +23,7 @@ gen/
 out/
 # Python specific files
 *.pyc
-Dock.egg-info/
 dist/
+*.egg-info/
 
 
